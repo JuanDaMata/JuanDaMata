@@ -16,7 +16,7 @@ Atualmente estou tentando me devolver cada vez mais como desenvolvedor Web, algu
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-da-mata-85488621a/)
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#add8e6)](mailto:juandamata2000@hotmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=red)](mailto:juandamata2000@hotmail.com)
 
 
 ---
