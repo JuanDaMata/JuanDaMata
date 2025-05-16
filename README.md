@@ -4,11 +4,20 @@ Atualmente estou tentando me devolver cada vez mais como desenvolvedor Web, algu
 
 ---
 <p align="center">
+ <a href="#-meus-contatos">Meus Contatos</a> •
  <a href="#-hard-skills">Hard Skills</a> •
  <a href="#-status-no-github">Status no GitHub</a> •
  <a href="#-linguagens">Linguagens</a> • 
  <a href="#-repositórios">Repositórios</a>
 </p>
+
+---
+## 📱 Meus Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-da-mata-85488621a/)
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=#add8e6)](mailto:juandamata2000@hotmail.com)
+
 
 ---
 ## 📌 Hard Skills:
