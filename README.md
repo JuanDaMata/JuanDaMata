@@ -1,7 +1,6 @@
 # 🚀 Olá Pessoal! :handshake:
 
-Meu nome é Juan Da Mata e eu sou **Back-End Developer** desde 2023, atualmente estou fazendo um curso de Desenvolvimento de Software (Foco em Back-End)  na [@CubosAcademy](https://cubos.academy/)
-
+Meu nome é Juan Da Mata e eu sou **Back-End Developer** desde 2023.
 # 🔔 Para me encontrar:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/juan-da-mata-85488621a/)
 
