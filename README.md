@@ -1,6 +1,6 @@
 # 🚀 Olá me chamo Juan Da Mata 🤝
 
-Atualmente estou tentando me devolver cada vez mais como desenvolvedor Web, algumas das plataformas que estão me ajudando nisso são: [Dio](https://www.dio.me/), [CubosAcademy](https://cubos.academy/) e a [InfinitySchool](https://infinityschool.com.br/)
+Atualmente estou tentando me desenvolver cada vez mais como desenvolvedor Web, algumas das plataformas que estão me ajudando nisso são: [Dio](https://www.dio.me/), [CubosAcademy](https://cubos.academy/) e a [InfinitySchool](https://infinityschool.com.br/)
 
 ---
 <p align="center">
@@ -19,24 +19,29 @@ Atualmente estou tentando me devolver cada vez mais como desenvolvedor Web, algu
 [![E-mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=red)](mailto:juandamata2000@hotmail.com)
 
 ---
-## 📌 Hard Skills:
+## 📌 Hard Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000) ![Node.js](https://img.shields.io/badge/Node%20js-01DF01?style=for-the-badge&logo=nodedotjs&logoColor=000000) ![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000) 
+![Node.js](https://img.shields.io/badge/Node%20js-01DF01?style=for-the-badge&logo=nodedotjs&logoColor=000000) 
+![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 
 ---
 ## 🎲 Status no GitHub
 
-![GitHub Stats](https://juan-da-mata.vercel.app/api?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
+![GitHub Stats](https://github-readme-stats-omega-five-lyj5wzmae5.vercel.app/api?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
 
 ---
 ## 💡 Linguagens
 
-![Top Langs](https://juan-da-mata.vercel.app/api/top-langs/?username=JuanDaMata&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
+![Top Langs](https://github-readme-stats-omega-five-lyj5wzmae5.vercel.app/api/top-langs/?username=JuanDaMata&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
 
 ---
 ## 🏆 Repositórios
 
-[![Sistema PDV API](https://img.shields.io/badge/Repo-sistema--pdv--API-30A3DC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDaMata/sistema-pdv-API)
+[![Sistema PDV API](https://github-readme-stats-omega-five-lyj5wzmae5.vercel.app/api/pin/?username=JuanDaMata&repo=sistema-pdv-API&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JuanDaMata/sistema-pdv-API)
 
-[![Sistema Dindin](https://img.shields.io/badge/Repo-Sistema--dindin-E94D5F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JuanDaMata/Sistema-dindin)
+[![Sistema Dindin](https://github-readme-stats-omega-five-lyj5wzmae5.vercel.app/api/pin/?username=JuanDaMata&repo=Sistema-dindin&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/JuanDaMata/Sistema-dindin)
+
+
 
