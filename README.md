@@ -26,16 +26,16 @@ Atualmente estou tentando me devolver cada vez mais como desenvolvedor Web, algu
 
 ---
 ## 🎲 Status no GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
 
 ---
 
 ## 💡 Linguagens
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br&layout=compact&cache_seconds=86400)](https://github.com/JuanDaMata)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JuanDaMata&layout=compact&theme=transparent&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
 
 ---
 
 ## 🏆 Repositórios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanDaMata&repo=sistema-pdv-API&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=86400)](https://github.com/JuanDaMata/sistema-pdv-API)
+![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JuanDaMata&repo=sistema-pdv-API&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=JuanDaMata&repo=Sistema-dindin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&cache_seconds=86400)](https://github.com/JuanDaMata/Sistema-dindin)
+![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=JuanDaMata&repo=Sistema-dindin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
