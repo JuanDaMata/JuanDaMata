@@ -1,7 +1,0 @@
-{
-  "name": "github-profile-readme",
-  "version": "1.0.0",
-  "scripts": {
-    "generate": "node generate-readme.js"
-  }
-}
