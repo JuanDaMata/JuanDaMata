@@ -1,5 +1,4 @@
 const fs = require('fs');
-
 const username = 'JuanDaMata';
 
 const readmeContent = `
