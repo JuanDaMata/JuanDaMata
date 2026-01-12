@@ -1,4 +1,4 @@
-# 🚀 Olá, eu sou Juan Da Mata 🤝
+# 🚀 Olá, me chamo Juan Da Mata 🤝
 
 Sou desenvolvedor **Back-End** em constante evolução, atualmente estudando **Front-End** para me tornar um desenvolvedor **Full-Stack.**
 
