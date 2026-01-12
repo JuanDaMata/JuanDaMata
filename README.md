@@ -1,15 +1,30 @@
-# 🚀 Olá me chamo Juan Da Mata 🤝
+# 🚀 Olá, eu sou Juan Da Mata 🤝
 
-Atualmente estou tentando me desenvolver cada vez mais como desenvolvedor Web, algumas das plataformas que estão me ajudando nisso são: [Dio](https://www.dio.me/), [CubosAcademy](https://cubos.academy/) e a [InfinitySchool](https://infinityschool.com.br/)
+Sou desenvolvedor **Back-End** em constante evolução, atualmente estudando **Front-End** para me tornar um desenvolvedor **Full-Stack.**
+
+Algumas das plataformas que estão me ajudando a **aprimorar minhas habilidades** são: [Dio](https://www.dio.me/), [Cubos Academy](https://cubos.academy/) e [Infinity School](https://infinityschool.com.br/).
 
 ---
+
 <p align="center">
- <a href="#-meus-contatos">Meus Contatos</a> •
- <a href="#-hard-skills">Hard Skills</a> •
- <a href="#-status-no-github">Status no GitHub</a> •
- <a href="#-linguagens">Linguagens</a> • 
- <a href="#-repositórios">Repositórios</a>
+  <a href="#-meus-contatos">
+    <img src="https://img.shields.io/badge/Meus%20Contatos-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Meus Contatos">
+  </a>
+  <a href="#-hard-skills">
+    <img src="https://img.shields.io/badge/Hard%20Skills-0A66C2?style=for-the-badge&logo=devicon&logoColor=white" alt="Hard Skills">
+  </a>
+  <a href="#-status-no-github">
+    <img src="https://img.shields.io/badge/Status%20no%20GitHub-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Status no GitHub">
+  </a>
+  <a href="#-linguagens">
+    <img src="https://img.shields.io/badge/Linguagens-0A66C2?style=for-the-badge&logo=programming&logoColor=white" alt="Linguagens">
+  </a>
+  <a href="#-repositórios">
+    <img src="https://img.shields.io/badge/Repositórios-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios">
+  </a>
 </p>
+
+
 
 ---
 ## 📱 Meus Contatos
