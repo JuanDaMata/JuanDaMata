@@ -1,6 +1,6 @@
 # 🚀 Olá, me chamo Juan Da Mata 🤝
 
-Sou desenvolvedor **Back-End** em constante evolução, atualmente estudando **Front-End** para me tornar um desenvolvedor **Full-Stack.**
+Sou desenvolvedor **Back-End**, atualmente estudando **Front-End** para me tornar um desenvolvedor **Full-Stack.**
 
 Algumas das plataformas que estão me ajudando a **aprimorar minhas habilidades** são: [Dio](https://www.dio.me/), [Cubos Academy](https://cubos.academy/) e [Infinity School](https://infinityschool.com.br/).
 
