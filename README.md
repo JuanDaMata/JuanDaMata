@@ -21,10 +21,13 @@ Atualmente estou tentando me desenvolver cada vez mais como desenvolvedor Web, a
 ---
 ## 📌 Hard Skills
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=javascript&logoColor=000000) 
-![Node.js](https://img.shields.io/badge/Node%20js-01DF01?style=for-the-badge&logo=nodedotjs&logoColor=000000) 
-![Git](https://img.shields.io/badge/GIT-FF0000?style=for-the-badge&logo=git&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000FF?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" style="margin-right:10px;" /></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" style="margin-right:10px;" /></a>
 
 ---
 ## 🎲 Status no GitHub
