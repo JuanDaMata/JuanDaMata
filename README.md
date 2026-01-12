@@ -14,9 +14,14 @@ Atualmente estou tentando me desenvolver cada vez mais como desenvolvedor Web, a
 ---
 ## 📱 Meus Contatos
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-da-mata-85488621a/)
-
-[![E-mail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=microsoft-outlook&logoColor=red)](mailto:juandamata2000@hotmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/juan-da-mata-85488621a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
+  </a>
+  <a href="mailto:juandamata2000@hotmail.com">
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" width="75" height="45" alt="Email" />
+  </a>
+</p>
 
 ---
 ## 📌 Hard Skills
