@@ -1,11 +1,14 @@
 # 🚀 Olá, me chamo Juan Da Mata 🤝
 
-Sou desenvolvedor **Back-End**, atualmente estudando **Front-End** para me tornar um desenvolvedor **Full-Stack.**
+💻 Desenvolvedor Full Stack Júnior focado em APIs REST e aplicações web modernas.
 
-Algumas das plataformas que estão me ajudando a **aprimorar minhas habilidades** são: [Dio](https://www.dio.me/), [Cubos Academy](https://cubos.academy/) e [Infinity School](https://infinityschool.com.br/).
+**Stack principal:** Node.js • TypeScript • React • PostgreSQL
+
+Experiência prática com autenticação JWT, integração front-end/back-end, modelagem relacional, arquitetura em camadas, versionamento com Git/GitHub e metodologias ágeis (Scrum e Kanban).
+
+📚 Formação contínua em plataformas como Dio, Cubos Academy e Infinity School.
 
 ---
-
 <p align="center">
   <a href="#-meus-contatos">
     <img src="https://img.shields.io/badge/Meus%20Contatos-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Meus Contatos">
@@ -24,32 +27,35 @@ Algumas das plataformas que estão me ajudando a **aprimorar minhas habilidades*
   </a>
 </p>
 
-
-
 ---
 ## 📱 Meus Contatos
 
-<p align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/juan-da-mata-85488621a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" hspace="6" alt="LinkedIn"/>
   </a>
   <a href="mailto:juandamata2000@hotmail.com">
-    <img src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" width="75" height="45" alt="Email" />
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Outlook-Logo.png" height="45" hspace="6" alt="Email"/>
   </a>
-</p>
+</div>
 
 ---
 ## 📌 Hard Skills
 
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36" height="36" alt="Git" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" style="margin-right:10px;" /></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" style="margin-right:10px;" /></a>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="38" hspace="10" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="38" hspace="10" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="38" hspace="10" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" hspace="8" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" hspace="10" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" hspace="10" alt="PostgreSQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="38" hspace="10" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="38" hspace="10" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="38" hspace="10" alt="CSS3"/>
+</div>
 
 ---
+
 ## 🎲 Status no GitHub
 
 ![GitHub Stats](https://github-readme-stats-omega-five-lyj5wzmae5.vercel.app/api?username=JuanDaMata&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&locale=pt-br)
