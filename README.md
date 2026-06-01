@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor Full Stack Júnior focado em APIs REST e aplicações web modernas.
 
-**Stack principal:** Node.js • TypeScript • React • PostgreSQL
+**Stacks principais:** Node.js • TypeScript • React • PostgreSQL
 
 Experiência prática com autenticação JWT, integração front-end/back-end, modelagem relacional, arquitetura em camadas, versionamento com Git/GitHub e metodologias ágeis (Scrum e Kanban).
 
